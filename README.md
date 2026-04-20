@@ -35,7 +35,7 @@ estado civil, filhos), comportamento de consumo e interações com campanhas.
 | Famílias | Ofertas e combos segmentados |
 
 ## 📊 Dashboard
-🔗 [Acesse o dashboard no Looker Studio]((https://datastudio.google.com/s/tU1HOKFF19A))
+🔗 [Acesse o dashboard no Looker Studio](https://datastudio.google.com/s/tU1HOKFF19A)
 
 ## 📬 Contato
-[LinkedIn]([https://linkedin.com/in/emmilly-dias-silva/])
+[LinkedIn](https://linkedin.com/in/emmilly-dias-silva/)
